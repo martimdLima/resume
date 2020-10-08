@@ -610,8 +610,8 @@
 .fa-github-square:before {
   content: "\f092";
 }
-.fa-gitlab:before{
-content:"\f296"
+.fa-gitlab-square:before {
+  content: "\f296";
 }
 .fa-upload:before {
   content: "\f093";
@@ -639,6 +639,9 @@ content:"\f296"
 }
 .fa-github:before {
   content: "\f09b";
+}
+.fa-gitlab:before {
+  content: "\f296";
 }
 .fa-unlock:before {
   content: "\f09c";
@@ -954,6 +957,9 @@ content:"\f296"
 }
 .fa-github-alt:before {
   content: "\f113";
+}
+.fa-gitlab-alt:before {
+  content: "\f296";
 }
 .fa-folder-o:before {
   content: "\f114";
