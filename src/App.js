@@ -7,7 +7,6 @@ import Footer from './components/footer/Footer';
 import About from './components/about/About';
 import Resume from './components/resume/Resume';
 import Contact from './components/contacts/Contact';
-import Testimonials from './components/testimonials/Testimonials';
 import Portfolio from './components/portfolio/Portfolio';
 
 class App extends Component {
@@ -23,10 +22,10 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
 
   }
-// /home/mdlima/Documents/programming/projects/cv/resume/public/resumeData.json
+
   getResumeData(){
     $.ajax({
-      url:"/resumeData.json",
+      url:"./resumeData.json",
       dataType:'json',
       cache: false,
       success: function(data){

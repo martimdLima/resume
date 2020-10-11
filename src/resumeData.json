@@ -74,35 +74,35 @@
       },
       {
         "name":"javascript",
-        "level":"65%"
-      },
-      {
-        "name":"HTML",
-        "level":"60%"
-      },
-      {
-        "name":"CSS",
         "level":"55%"
       },
       {
+        "name":"HTML",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
         "name":"Spring Framework",
-        "level":"75%"
+        "level":"80%"
       },
       {
         "name":"OOP",
-        "level":"65%"
+        "level":"50%"
       },
       {
         "name":"Relational Databases",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Non-Relational Databases",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Node.Js",
-        "level":"75%"
+        "level":"80%"
       },
       {
         "name": "Angular2+",
@@ -128,12 +128,6 @@
         "title":"Node.js Course",
         "category":"A repository with all the code developed during the Node.js - The Complete Guide Course",
         "image":"node-js.jpg",
-        "url":"https://gitlab.com/mdLima0/nodejs-the-complete-guide-2020"
-      },
-      {
-        "title":"MongoDB Course",
-        "category":"A repository with all the code developed during the MongoDB - The Complete Guide Course",
-        "image":"mongodb.jpg",
         "url":"https://gitlab.com/mdLima0/nodejs-the-complete-guide-2020"
       },
       {
